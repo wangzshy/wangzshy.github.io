@@ -6,10 +6,10 @@ url: https://wangzshy.github.io/
 resume_site: 
 github: https://github.com/wangzshy/
 baseurl: "/"
-description: Actually, less is more!
-meta_description: 知而不惑，不惑而不忧不怨
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+description: 知而不惑，不惑而不忧不怨!
+meta_description: 知而不惑，不惑而不忧不怨!
+motto: 知而不惑，不惑而不忧不怨!
+banner: 知而不惑，不惑而不忧不怨!
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
