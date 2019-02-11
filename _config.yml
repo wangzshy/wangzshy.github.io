@@ -1,13 +1,13 @@
 # Site settings
-name: Less Or More
+name: wz's blog
 email: wangzshy@sina.com
-author: Wang Zheng
-url: 
+author: wz
+url: https://wangzshy.github.io/
 resume_site: 
-github: https://github.com/
+github: https://github.com/wangzshy/
 baseurl: "/"
 description: Actually, less is more!
-meta_description: 学而不思则罔;思而不学则殆;生命不止;折腾不休
+meta_description: 知而不惑，不惑而不忧不怨
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
 
